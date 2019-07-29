@@ -1,3 +1,3 @@
-# Spring-Boot-Assignment
+# Mockito
 
-It reads the jason file from the Rest API and converts to java Object 
+This Repository contains test cases for Controller,ServiceImpl as well as for Repository also
